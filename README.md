@@ -1,6 +1,6 @@
-📚 Similarity Checking from Books
+Similarity Checking from Books
 
-🎯 Overview
+Overview
 
 An elegant text analysis project that explores the fascinating relationships between 64 literary works. Using sophisticated comparison algorithms, this project uncovers hidden patterns and similarities in classic literature.
 
@@ -28,7 +28,7 @@ Data Set:
 
 https://drive.google.com/file/d/1jcm_-q3IzrDD7lCg0yMlH_GJbg8wudir/view?usp=sharing
 
-✨ Key Features
+Key Features
 
 Identifies the 100 most influential words across the literary corpus
 
@@ -40,7 +40,7 @@ Processes and analyzes raw text with precision
 
 Implements robust comparison algorithms
 
-📊 Results Highlight
+Results Highlight
 
 Our analysis revealed some fascinating connections between books. Here are some notable findings:
 
@@ -50,7 +50,7 @@ Memoirs of Laetitia Pilkington demonstrates strong narrative consistency across 
 
 Foxes Book of Martyrs maintains thematic coherence throughout different parts
 
-🛠️ Technical Implementation
+Technical Implementation
 
 Core Components:
 
@@ -70,7 +70,7 @@ Data Format: Raw text files
 
 Analysis Method: Statistical text comparison
 
-📈 Performance
+Performance
 
 The program efficiently processes 64 books and performs:
 
@@ -80,7 +80,7 @@ Word frequency analysis across entire corpus
 
 Similarity ranking and sorting
 
-🚀 Getting Started
+Getting Started
 
 Clone the repository
 
@@ -92,7 +92,7 @@ Run the executable
 
 Find results in the output directory
 
-📝 Output Files
+Output Files
 
 The program generates several output files:
 
@@ -106,7 +106,7 @@ Note :
 The current implementation uses a single-threaded approach to ensure maximum stability and reliability. 
 While this design choice impacts processing speed, it guarantees consistent results across all system configurations.
 
-🔍 Future Scope
+Future Scope
 
 Natural Language Processing integration
 
@@ -119,7 +119,7 @@ Genre classification features
 Multi-language support
 
 
-🤝 Special thanks to:
+Special thanks to:
 
 The professors for their guidance
 
