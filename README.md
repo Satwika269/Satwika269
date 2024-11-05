@@ -52,7 +52,7 @@ Foxes Book of Martyrs maintains thematic coherence throughout different parts
 
 🛠️ Technical Implementation
 
-Core Components
+Core Components:
 
 Custom Book class for efficient text representation
 
@@ -62,7 +62,7 @@ Sophisticated similarity calculation algorithms
 
 Comprehensive word frequency analysis
 
-Technology Stack
+Technology Stack:
 
 Language: C++
 
@@ -101,6 +101,10 @@ common_words.txt: Top 100 most frequent words
 similarity_matrix.txt: Complete comparison matrix
 
 similar_books.txt: Top 10 most similar book pairs
+
+Note :
+The current implementation uses a single-threaded approach to ensure maximum stability and reliability. 
+While this design choice impacts processing speed, it guarantees consistent results across all system configurations.
 
 🔍 Future Scope
 
